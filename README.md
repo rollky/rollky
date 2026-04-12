@@ -1,6 +1,6 @@
 # 🚀 欢迎来到我的代码空间
 
-![Visitor Count](https://komarev.com/ghpvc/?username=[rollky]&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=rollky&color=blue)
 
 我是 [rollky]，专注于构建稳健的自动化流程。
 
@@ -11,5 +11,5 @@
 
 ### 📊 GitHub 统计
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[rollky]&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rollky&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
