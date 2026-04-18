@@ -35,6 +35,6 @@
 ---
 
 ### 📫 联系我
-- **Email:** yycm.rolky@gmail.com
+- **Email:** rolky.yycm@gmail.com
 
 > "Talk is cheap. Show me the code." —— Linus Torvalds
